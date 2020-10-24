@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a38e3e-4c0d-4645-8410-d01194fdb305" name="Default Changelist" comment="Update index.html" />
+    <list default="true" id="24a38e3e-4c0d-4645-8410-d01194fdb305" name="Default Changelist" comment="Update index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +39,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -29,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603579711257</updated>
-      <workItem from="1603579712343" duration="305000" />
+      <workItem from="1603579712343" duration="1175000" />
     </task>
     <task id="LOCAL-00001" summary="Update index.html">
       <created>1603579802156</created>
@@ -58,5 +80,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update index.html" />
     <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="224" key="SettingsEditor" timestamp="1603580648083">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="460" y="224" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1160/3840.0.1200.1920@0.0.1920.1160" timestamp="1603580648083" />
+    <state x="551" y="312" key="Vcs.Push.Dialog.v2" timestamp="1603579959541">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="551" y="312" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1160/3840.0.1200.1920@0.0.1920.1160" timestamp="1603579959541" />
+    <state x="776" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603579939759">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="776" y="493" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1040/0.0.1920.1160/3840.0.1200.1920@0.0.1920.1160" timestamp="1603579939759" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1603580431188">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1160/3840.0.1200.1920@0.0.1920.1160" timestamp="1603580431188" />
   </component>
 </project>
